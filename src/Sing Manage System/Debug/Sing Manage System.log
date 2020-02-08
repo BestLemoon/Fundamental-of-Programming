@@ -1,0 +1,91 @@
+﻿  Sing Manage System.cpp
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(116,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(115,14): warning C4101: “c”: 未引用的局部变量
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(125,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(141,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(143,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(148,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(152,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(499,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(499,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(499,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(499,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(236,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(241,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(257,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(259,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(264,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(268,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(284,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(299,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(306,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(324,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(357,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(382,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(408,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(411,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(445,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(461,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(463,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(468,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(472,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(491,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(499,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(513,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(520,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(530,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(538,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(546,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(555,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(181,9): warning C4101: “b”: 未引用的局部变量
+D:\Source Code\Sing Manage System\Sing Manage System\Sing Manage System.cpp(181,33): warning C4101: “d”: 未引用的局部变量
+  Sing Manage System.vcxproj -> D:\Source Code\Sing Manage System\Sing Manage System\Debug\Sing Manage System.exe
