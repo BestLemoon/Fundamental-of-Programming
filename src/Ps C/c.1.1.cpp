@@ -7,6 +7,9 @@ using namespace std;
 #define MAX 2002
 int Add(char *a, char *b)
 {
+	/*hjggggggggggg
+	ljkkjjlk
+	lkjlkjk*/
 	char c[N];
 	int alen, blen, i, aa, sign=0, d[N + 1] = { 0 },tmp;
 	alen = strlen(a);
